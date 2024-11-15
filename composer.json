@@ -33,7 +33,7 @@
         "agence-adeliom/easy-common-bundle": "^2.1",
         "league/flysystem-bundle": "^3.0",
         "liip/imagine-bundle": "^2.8",
-        "maennchen/zipstream-php": "^2.1.0",
+        "maennchen/zipstream-php": "^2.1.0 || ^3.0",
         "illuminate/support": "^9.2",
         "stof/doctrine-extensions-bundle": "^1.6",
         "symfony/psr-http-message-bridge": "^2.0",
